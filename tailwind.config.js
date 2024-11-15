@@ -1,8 +1,22 @@
-/** @type {import('tailwindcss').Config} */
+import catppuccin from "@catppuccin/tailwindcss";
+
 export default {
-  content: ["./src/**/*.{js,jsx}"],
+  content: ["./src/**/*.{html,js,jsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        splineSansBold: "splineSansBold",
+        splineSansLight: "splineSansLight",
+        splineSansMedium: "splineSansMedium",
+        splineSansRegular: "splineSansRegular",
+        splineSansSemiBold: "splineSansSemiBold",
+      },
+    },
   },
-  plugins: [],
+  plugins: [
+    catppuccin({
+      prefix: "ctp", // Optional: Prefix for Catppuccin classes
+      defaultFlavour: "mocha", // Choose your preferred theme variant
+    }),
+  ],
 };
