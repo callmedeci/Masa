@@ -1,6 +1,3 @@
-Thanks for sharing the screenshot! Here’s an updated README to match the look and feel of **Marsa**.
-
----
 
 # 🌌 Marsa  
 
