@@ -18,7 +18,7 @@ const shortInfoData = [
 export default function Header() {
   return (
     <header className="flex flex-col w-full h-full md:items-center justify-center">
-      <pre className="font-splineSansBold text-clip text-ctp-blue text-xs md:text-xl xl:text-2xl relative text-center">
+      <pre className="text-clip text-ctp-blue text-xs md:text-xl xl:text-2xl relative text-center">
         {`
 ███╗   ███╗ █████╗ ███████╗ █████╗ 
 ████╗ ████║██╔══██╗██╔════╝██╔══██╗
