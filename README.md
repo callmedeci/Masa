@@ -1,12 +1,12 @@
 
-# 🌌 Marsa  
+# Marsa  
 
-**Marsa** is a sleek and modern start page, blending a minimalist design with the **Catppuccin Mocha** palette. It provides quick access to essential tools, current weather, time, and other custom links, designed to keep your digital workspace organized and aesthetically pleasing. 🚀  
+**Marsa** is a sleek and modern start page, blending a minimalist design with the **Catppuccin Mocha** palette. It provides quick access to essential tools, current weather, time, and other custom links, designed to keep your digital workspace organized and aesthetically pleasing.  
 
 
 ---
 
-### ✨ Features  
+### Features  
 
 - **Personalized Dashboard**: Displays user information, weather, time, and date.
 - **Quick Links**: Shortcut icons for popular platforms like YouTube, Discord, Twitter, GitHub, and LinkedIn.
@@ -15,13 +15,13 @@
 
 ---
 
-### 🌐 Live Demo  
+### Live Demo  
 
 Check out the live version of Marsa here: **[Marsa on Vercel](https://masa-beta.vercel.app/)**  
 
 ---
 
-### ⚙️ Getting Started  
+### Getting Started  
 
 1. **Clone the Repository**  
    ```bash
@@ -47,14 +47,14 @@ Check out the live version of Marsa here: **[Marsa on Vercel](https://masa-beta.
 
 ---
 
-### 🎨 Customization  
+### Customization  
 
 - **Color Theme**: Easily tweak colors through `tailwind.config.js` using the **Catppuccin Mocha** palette.
 - **Quick Links**: Modify icons and links within `src/components/` for your preferred platforms.
 
 ---
 
-### 🛠 Tech Stack  
+### Tech Stack  
 
 - **React 18**  
 - **Vite 5**  
@@ -62,6 +62,3 @@ Check out the live version of Marsa here: **[Marsa on Vercel](https://masa-beta.
 - **Catppuccin Tailwind Plugin**  
 
 ---
-
-  
-
