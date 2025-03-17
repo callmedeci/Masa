@@ -17,7 +17,7 @@ Masa is a sleek and modern start page, blending a minimalist design with the Cat
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/masa.git
+   git clone https://github.com/callmedeci/masa.git
    cd masa
    ```
 
